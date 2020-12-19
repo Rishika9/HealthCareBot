@@ -9,7 +9,7 @@ if($_SESSION['status']!="Active")
 <html lang="en">
 <head>
 <script src="https://kit.fontawesome.com/b62e73b8ee.js" crossorigin="anonymous"></script>
-     <title>Health - Medical Website</title>
+     <title>Home</title>
      <style>
      .textalign{
          padding-top:30px;
