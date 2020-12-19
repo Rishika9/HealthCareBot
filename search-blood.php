@@ -24,7 +24,7 @@ if(isset($_POST['searchBtn']))
 <html>
 <head>
   <script src="https://kit.fontawesome.com/b62e73b8ee.js" crossorigin="anonymous"></script>
-<title>Health - Medical Website</title>
+<title>Find Donor</title>
 
      <meta charset="UTF-8">
      <meta http-equiv="X-UA-Compatible" content="IE=Edge">
