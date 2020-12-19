@@ -610,7 +610,7 @@ $command = escapeshellcmd('python EditThis.py &');
 <html lang="en">
 <head>
 
-     <title>Health - Medical Website</title>
+     <title>Disease Predictor</title>
 
 <script src="https://kit.fontawesome.com/b62e73b8ee.js" crossorigin="anonymous"></script>
   <style >
