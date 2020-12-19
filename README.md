@@ -1,6 +1,3 @@
 # HealthCareBot
 
-A web-based management system that is required to gather blood donors and connect them with the needy people who have high requirements for a particular blood type.​
- A system that predicts the disease at the earliest is very important to avoid any unwanted casualties.
- This system predicts general and more commonly occurring diseases that when unchecked can turn into fatal ones. ​
- Not to mention, it is a system that sets an appointment with the doctor at the touch of your fingertips!​
+A web-based management system that gathers blood donors , connects them with needy people who have high requirements for a particular blood type  , predicts the disease from symptoms and sets an appointment with the doctor at the touch of your fingertips!​
